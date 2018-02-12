@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fasm22/workspace/imagenes/Tareas/Tarea01/opencv/main.cpp
+boost/program_options.hpp
+-
+stdio.h
+-
+opencv2/opencv.hpp
+-
+iostream
+-
+iterator
+-
+

@@ -1,0 +1,3 @@
+/home/fasm22/workspace/imagenes/Tareas/Tarea01/opencv/CMakeFiles/edit_cache.dir
+/home/fasm22/workspace/imagenes/Tareas/Tarea01/opencv/CMakeFiles/rebuild_cache.dir
+/home/fasm22/workspace/imagenes/Tareas/Tarea01/opencv/CMakeFiles/ShowImage.dir
